@@ -5,7 +5,8 @@
 Run the command:
 
 ```shell
-go build
+cd cmd/cli
+go build -o gocli
 ```
 
 This compiles your program and generates an executable file.
